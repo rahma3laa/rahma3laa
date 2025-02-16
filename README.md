@@ -24,12 +24,7 @@
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
 
 
-### Connect with me  
-<p align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?lines=📊&font=Fira+Code&center=true&width=50&height=50&color=FF5733&size=22&vCenter=true&repeat=false&animation=wave">  
-</p>  
-  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:rahmaaaliii55@gmail.com)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rahma3laa)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahma-alaa-5091b234b/)
-
+### Connect with me 📊  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rahmaaaliii55@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rahma3laa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahma-alaa-5091b234b/)
