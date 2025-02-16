@@ -23,7 +23,15 @@
 ### Databases
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
 
-### Connect with me 📬
-- 📧 Gmail: [rahmaaaliii55@gmail.com](mailto:rahmaaaliii55@gmail.com)
-- 💻 GitHub: [rahma3laa](https://github.com/rahma3laa)
-- 💼 LinkedIn: [Rahma Alaa](https://www.linkedin.com/in/rahma-alaa-5091b234b/)
+### Connect with me
+<p align="center">
+  <a href="mailto:rahmaaaliii55@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://github.com/rahma3laa">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/rahma-alaa-5091b234b/">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
