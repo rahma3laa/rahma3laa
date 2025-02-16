@@ -1,9 +1,10 @@
 # Hi 👋, I'm Rahma Alaa
 <p align="center">
   <a href="https://github.com/mhmodfrmwi/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20I'm%20Dot Net%20Developer☝;&font=Fira%20Code&center=true&width=440&height=45&color=FF5733&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20a%20Dot%20Net%20Developer☝;&font=Fira%20Code&center=true&width=440&height=45&color=FF5733&vCenter=true&size=22">
   </a>
 </p>
+
 
 ## I'm currently:
 - 🧑‍💻 Practicing programming for over 4 years, constantly learning and improving!
