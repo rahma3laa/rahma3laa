@@ -7,7 +7,7 @@
 
 
 ## I'm currently:
-- 🧑‍💻 Practicing programming for over 4 years, constantly learning and improving!
+- 🧑‍💻 Practicing programming for over 2 years, constantly learning and improving!
 - 💡 Passionate about making websites and software that bring value to people.
 - 📘 Currently learning .NET technologies and improving my backend development skills.
 - 🛠️ Developed web applications from scratch using ASP.NET Core, and Entity Framework.
