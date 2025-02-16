@@ -23,3 +23,7 @@
 ### Databases
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
 
+### Connect with me 📬
+- 📧 Gmail: [rahmaaaliii55@gmail.com](mailto:rahmaaaliii55@gmail.com)
+- 💻 GitHub: [rahma3laa](https://github.com/rahma3laa)
+- 💼 LinkedIn: [Rahma Alaa](https://www.linkedin.com/in/rahma-alaa-5091b234b/)
